@@ -18,11 +18,10 @@ A **Minecraft Gamer** ***LandWarderer*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Working for create a Protection Plugin
+- 👨🏽‍💻 I’m currently a Working on a discord bot
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest Disturbing server without any proof and ban him.
+- 🤔 My interest Bedwars
 - 💬 Ask me about anything, I love to answer!
-- 📫 Im working at ZeroRaid.
 
 
 
