@@ -11,20 +11,11 @@
 <br />
 <br />
 
-A **Minecraft Gamer** ***LandWarderer*** 🚀.
+A **Gamer** ***LandWarderer*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**About Me!**
-
-- 👨🏽‍💻 I’m currently a Working on a discord bot
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest Bedwars
-- 💬 Ask me about anything, I love to answer!
-
-
-
+  
 **Languages and Tools:**  
 
 
