@@ -1,8 +1,8 @@
 
 <h3 title="hehehe"> Hey 👋, I'm LandWarderer</h3>
 
-<a href="https://www.instagram.com/LandWarderer2772/">
-  <img align="left" alt="Zer0Two's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/Land_lmao/">
+  <img align="left" alt="Lands Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
