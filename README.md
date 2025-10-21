@@ -1,32 +1,33 @@
+# LandWarderer2772
 
-<h3 title="hehehe"> Hey 👋, I'm LandWarderer</h3>
+Welcome to my GitHub profile. I'm known as Land online—a developer, gamer, and enthusiast in open source projects and creative technology.
 
-<a href="https://www.instagram.com/Land_lmao/">
-  <img align="left" alt="Lands Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+## About Me
 
+I'm passionate about gaming, system customization, and building electronic circuits. You'll often find me experimenting with new ideas in game development, automation, and digital art.
 
+I currently work with languages and tools such as Python, C#, Linux, KDE Plasma, Hyprland and focusing on projects that blend creativity and technical challenge.
 
+## Featured Projects
 
-<br />
-<br />
+- A-FMHY: AMOLED clone of fmhy (fork)
+- LandWarderer2772: Configuration files for my GitHub profile
+- website: website duh
 
-A **Gamer** ***LandWarderer*** 🚀.
- 
+## Contact and Networking
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
-**Languages and Tools:**  
+Connect with me:
+- Website: https://land.is-a.dev or https://landlmao.tech
+- DeviantArt: https://www.deviantart.com/landwrd
+- Discord: land_lmao
+- Instagram land_lmao
+- Twitter: land_lmao
+- Email: navaneethbinoy@gmail.com
 
+Interested in collaborating? Feel free to reach out.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+## GitHub Stats
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+![LandWarderer2772's GitHub stats](https://github-readme-stats.vercel.app/api?username=LandWarderer2772&show_icons=true&theme=tokyonight)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=LandWarderer2772&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="LandWarderer's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LandWarderer2772&count_private=true&theme=radical" alt="Zer0Two" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandWarderer2772&count_private=true&theme=radical" alt="Zer0Two" />
+---
